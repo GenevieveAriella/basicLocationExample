@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
     protected Location mLastLocation;
 
     private String mLatitudeLabel;
+    //maggie was here
     private String mLongitudeLabel;
     private TextView mLatitudeText;
     private TextView mLongitudeText;
